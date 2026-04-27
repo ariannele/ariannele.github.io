@@ -79,6 +79,10 @@ img {
     width: 100%;
 }
 
+.bordered-image {
+    border: 3px solid #fbdce1;
+}
+
 .main-text-color {
     color: var(--primaryText);
 }
@@ -88,7 +92,7 @@ img {
 }
 
 .name strong {
-    background-color: rgba(0, 0, 0, 0.50);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .section-header {
